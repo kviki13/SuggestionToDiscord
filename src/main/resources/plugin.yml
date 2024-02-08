@@ -1,0 +1,14 @@
+name: SuggestionsToDiscord
+version: 0.1
+main: kz.kviki13.kvikiutils.SuggestionPlugin
+author: kviki13
+
+commands:
+  suggestion:
+    usage: '/suggestion <ваша идея или баг>'
+  discord:
+    usage: 'Ссылка на наш дискорд - https://dsc.gg/honeyland'
+  tg:
+    usage: 'Наш телеграм канал: @honeylandpublic'
+  help:
+    usage: 'За помощью напишите в тех. поддержку в дискорде: dsc.gg/honeyland'
